@@ -18,7 +18,6 @@ public class HelloWorld {
 	    double squareRootXYPowerZ = Math.sqrt(Math.pow((x*y),z));
 	    System.out.println(xPowerz + " " + xPowerYToZ + " " + absoluteY + " " + squareRootXYPowerZ);
 	      
-	      
 	}
 
 }
