@@ -11,7 +11,7 @@ public class HelloWorld {
 	    double x = scnr.nextDouble();
 	    double y = scnr.nextDouble();
 	    double z = scnr.nextDouble();
-	    /* Type your code here. */
+	    
 	    double xPowerz = Math.pow(x,z);
 	    double xPowerYToZ = Math.pow(x, Math.pow(y,z));
 	    double absoluteY = Math.abs(y);
